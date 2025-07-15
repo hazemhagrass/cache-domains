@@ -13,3 +13,4 @@ fastly-download.epicgames.com
 api.epicgames.dev
 datarouter.ol.epicgames.com
 cloudflare.epicgamescdn.com
+egdownload.fastly-edge.com
