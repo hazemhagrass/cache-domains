@@ -9,3 +9,4 @@ dist.blizzard.com.edgesuite.net
 edge.blizzard.top.comcast.net
 level3.blizzard.com
 nydus.battle.net
+blizzard.gcdn.cloudn.co.kr
